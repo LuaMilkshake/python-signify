@@ -33,6 +33,7 @@ setup(
 
         'Programming Language :: Python :: 3',
     ],
+    packages=['signify'],
     install_requires=[
         'ed25519',
     ],
